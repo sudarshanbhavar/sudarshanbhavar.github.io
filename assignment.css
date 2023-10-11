@@ -1,0 +1,337 @@
+position: relative;
+width: 1400px;
+height: 650px;
+
+/* Background / Dark */
+background: #2F1893;
+
+
+/* Image */
+
+position: absolute;
+width: 1400px;
+height: 650px;
+left: 0px;
+top: 0px;
+
+background: url(rawpixel-661930-unsplash.jpg);
+opacity: 0.5;
+
+
+/* Create sites without routine */
+
+position: absolute;
+left: 24.64%;
+right: 25.5%;
+top: 27.69%;
+bottom: 45.85%;
+
+/* Heading / H1 Hero */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 86px;
+/* or 119% */
+text-align: center;
+letter-spacing: -1px;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* Text */
+
+position: absolute;
+left: 31.71%;
+right: 31.64%;
+top: 60%;
+bottom: 20.31%;
+
+
+
+/* Startup gives you complete freedom over your creative process — you don’t have to think about any technical aspects. There are no limits and absolutely no coding. */
+
+position: absolute;
+left: 31.71%;
+right: 31.64%;
+top: 60%;
+bottom: 20.31%;
+
+/* Heading / H5 Lead */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+/* or 145% */
+text-align: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* Header Menu */
+
+position: absolute;
+left: 15.21%;
+right: 15.36%;
+top: 8.31%;
+bottom: 85.54%;
+
+
+
+/* Small - Fill */
+
+position: absolute;
+left: 76.07%;
+right: 15.36%;
+top: 8.31%;
+bottom: 85.54%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Action / Secondary */
+background: #482BE7;
+border-radius: 100px;
+
+
+/* Sign Up */
+
+position: absolute;
+width: 89px;
+height: 22px;
+left: calc(50% - 89px/2 + 0.5px);
+top: calc(50% - 22px/2);
+
+/* Buttons / Small */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* Menu */
+
+position: absolute;
+left: 34%;
+right: 34.07%;
+top: 9.69%;
+bottom: 86.31%;
+
+
+
+/* fa-behance */
+
+position: absolute;
+height: 21px;
+left: 64.43%;
+right: 34.07%;
+top: calc(50% - 21px/2 - 248.5px);
+
+/* Font Awesome */
+font-family: 'FontAwesome';
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* fa-instagram */
+
+position: absolute;
+height: 21px;
+left: 61.14%;
+right: 37.71%;
+top: calc(50% - 21px/2 - 248.5px);
+
+/* Font Awesome */
+font-family: 'FontAwesome';
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* fa-dribbble */
+
+position: absolute;
+height: 21px;
+left: 57.86%;
+right: 41%;
+top: calc(50% - 21px/2 - 248.5px);
+
+/* Font Awesome */
+font-family: 'FontAwesome';
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* Blog */
+
+position: absolute;
+height: 26px;
+left: 52.93%;
+right: 44.5%;
+top: calc(50% - 26px/2 - 249px);
+
+/* Buttons / Middle */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+display: flex;
+align-items: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* Pricing */
+
+position: absolute;
+height: 26px;
+left: 46.43%;
+right: 49.43%;
+top: calc(50% - 26px/2 - 249px);
+
+/* Buttons / Middle */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+display: flex;
+align-items: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* Features */
+
+position: absolute;
+height: 26px;
+left: 38.71%;
+right: 56%;
+top: calc(50% - 26px/2 - 249px);
+
+/* Buttons / Middle */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+display: flex;
+align-items: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* Tour */
+
+position: absolute;
+height: 26px;
+left: 34%;
+right: 63.36%;
+top: calc(50% - 26px/2 - 249px);
+
+/* Buttons / Middle */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+display: flex;
+align-items: center;
+
+/* Colors / White */
+color: #FFFFFF;
+
+
+
+/* White */
+
+position: absolute;
+left: 15.21%;
+right: 76.86%;
+top: 10%;
+bottom: 87.08%;
+
+
+
+/* White */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Startup 3 */
+
+position: absolute;
+width: 106px;
+height: 32px;
+left: 2px;
+top: -6px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.292683px;
+
+/* Colors / White */
+color: #FFFFFF;
+
